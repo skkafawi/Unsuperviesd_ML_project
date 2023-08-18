@@ -16,15 +16,15 @@ Welcome to the Moosic Playlist Clustering project! This repository contains an u
 # Modelling
 To achieve meaningful clusters, we followed these steps:
 
- 1- Data Scaling: Prior to clustering, the data was scaled to ensure that each feature contributed equally to the analysis. Other transformations were also considered to enhance model performance.
- 2- K-Means Exploration: We employed the elbow method and silhouette coefficient to determine an optimal number of clusters for K-Means.
- 3- K-Means Final Model: Based on our exploration, we implemented the K-Means algorithm with the selected number of clusters, creating a robust model for playlist clustering.
+  - Data Scaling: Prior to clustering, the data was scaled to ensure that each feature contributed equally to the analysis. Other transformations were also considered to enhance model performance.
+  - K-Means Exploration: We employed the elbow method and silhouette coefficient to determine an optimal number of clusters for K-Means.
+  - K-Means Final Model: Based on our exploration, we implemented the K-Means algorithm with the selected number of clusters, creating a robust model for playlist clustering.
 
 # Cluster Exploration
  After clustering, we delved into cluster analysis:
 
- 1- Univariate and Bivariate Exploration: We conducted thorough analysis of the clusters, exploring individual features and relationships between features within each cluster.
- 2- Manual Labelling: Each cluster was manually labeled based on the characteristics of the songs it contained, providing interpretability to the clusters.
+  - Univariate and Bivariate Exploration: We conducted thorough analysis of the clusters, exploring individual features and relationships between features within each cluster.
+  - Manual Labelling: Each cluster was manually labeled based on the characteristics of the songs it contained, providing interpretability to the clusters.
 
 #Results
  The results of this project provide Moosic with valuable insights into song preferences and playlist composition. By categorizing songs into clusters, Moosic can enhance its recommendation system and tailor playlists to individual users' tastes.
@@ -32,6 +32,6 @@ To achieve meaningful clusters, we followed these steps:
 #Usage
  If you wish to replicate or build upon this project, follow these steps:
 
- 1- Clone this repository to your local machine.
- 2- Ensure you have the necessary dependencies installed (list them in a requirements.txt file).
- 3- Run the provided Jupyter Notebook or Python script to reproduce the analysis and clustering.
+  - Clone this repository to your local machine.
+  - Ensure you have the necessary dependencies installed (list them in a requirements.txt file).
+  - Run the provided Jupyter Notebook or Python script to reproduce the analysis and clustering.
