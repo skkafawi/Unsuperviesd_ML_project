@@ -6,7 +6,7 @@ Welcome to the Moosic Playlist Clustering project! This repository contains an u
 # Introduction
  Moosic, a cutting-edge music company, is constantly seeking innovative ways to enhance user experience. This project aimed to explore unsupervised machine learning techniques to cluster songs playlists, enabling Moosic to gain insights into music preferences and create personalized recommendations.
 
-#Data Preparation
+# Data Preparation
  We began by preparing the dataset for analysis. The following steps were taken:
 
  - Reading the Data: The Spotify features data for 5000 songs was collected and loaded into the project environment.
