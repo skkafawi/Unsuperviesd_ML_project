@@ -29,7 +29,7 @@ To achieve meaningful clusters, we followed these steps:
 #Results
  The results of this project provide Moosic with valuable insights into song preferences and playlist composition. By categorizing songs into clusters, Moosic can enhance its recommendation system and tailor playlists to individual users' tastes.
 
-#Usage
+# Usage
  If you wish to replicate or build upon this project, follow these steps:
 
   - Clone this repository to your local machine.
