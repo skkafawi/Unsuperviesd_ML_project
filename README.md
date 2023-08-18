@@ -35,3 +35,6 @@ To achieve meaningful clusters, we followed these steps:
   - Clone this repository to your local machine.
   - Ensure you have the necessary dependencies installed (list them in a requirements.txt file).
   - Run the provided Jupyter Notebook or Python script to reproduce the analysis and clustering.
+
+#Contributing
+Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
