@@ -9,9 +9,9 @@ Welcome to the Moosic Playlist Clustering project! This repository contains an u
 #Data Preparation
  We began by preparing the dataset for analysis. The following steps were taken:
 
- 1-Reading the Data: The Spotify features data for 5000 songs was collected and loaded into the project environment.
- 2-Initial Quick Exploration: Basic exploratory data analysis was conducted to gain an understanding of the dataset's structure and content.
- 3- Dropping Unwanted Features: Features deemed irrelevant or redundant were removed to streamline the dataset for clustering.
+ - Reading the Data: The Spotify features data for 5000 songs was collected and loaded into the project environment.
+ - Initial Quick Exploration: Basic exploratory data analysis was conducted to gain an understanding of the dataset's structure and content.
+ - Dropping Unwanted Features: Features deemed irrelevant or redundant were removed to streamline the dataset for clustering.
 
 # Modelling
 To achieve meaningful clusters, we followed these steps:
